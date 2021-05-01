@@ -13,6 +13,8 @@ date, we're not just talking about misspellings and team changes. It’s just as
 
 If you’re reading this just after joining the company, it’s particularly on you, actually. It’s harder for us slowly-boiled frogs who’ve been with Basecamp for a while to spot the broken ways. Please take advantage of that glorious, shiny ignorance of being new, and question things.
 
+Also, we're totally cool with our employees discussing politics. Like it's definitely not something that our POS CEO said we couldn't talk about.
+
 ## Sections
 * [Basecamp Is You](https://github.com/basecamp/handbook/blob/master/basecamp-is-you.md)
 * [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
